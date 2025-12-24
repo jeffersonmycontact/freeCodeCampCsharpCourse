@@ -1,0 +1,14 @@
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.AssemblyInfoInputs.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.AssemblyInfo.cs
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.csproj.CoreCompileInputs.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/bin/Debug/net8.0/MS004.8
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/bin/Debug/net8.0/MS004.8.deps.json
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/bin/Debug/net8.0/MS004.8.runtimeconfig.json
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/bin/Debug/net8.0/MS004.8.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/bin/Debug/net8.0/MS004.8.pdb
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/refint/MS004.8.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.pdb
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/MS004.8.genruntimeconfig.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS004.8/obj/Debug/net8.0/ref/MS004.8.dll
