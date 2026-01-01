@@ -1,0 +1,15 @@
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.AssemblyInfoInputs.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.AssemblyInfo.cs
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.csproj.CoreCompileInputs.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.sourcelink.json
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/bin/Debug/net8.0/MS008.4.Math
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/bin/Debug/net8.0/MS008.4.Math.deps.json
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/bin/Debug/net8.0/MS008.4.Math.runtimeconfig.json
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/bin/Debug/net8.0/MS008.4.Math.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/bin/Debug/net8.0/MS008.4.Math.pdb
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/refint/MS008.4.Math.dll
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.pdb
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/MS008.4.Math.genruntimeconfig.cache
+/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.4.Math/obj/Debug/net8.0/ref/MS008.4.Math.dll

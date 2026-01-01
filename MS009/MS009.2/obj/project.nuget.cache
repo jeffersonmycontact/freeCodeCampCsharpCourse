@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPHaUlRg3j0=",
+  "success": true,
+  "projectFilePath": "/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/MS009.2.csproj",
+  "expectedPackageFiles": [
+    "/home/jefferson/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

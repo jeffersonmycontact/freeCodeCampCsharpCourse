@@ -1,0 +1,14 @@
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/bin/Debug/net8.0/MS009.2
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/bin/Debug/net8.0/MS009.2.deps.json
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/bin/Debug/net8.0/MS009.2.runtimeconfig.json
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/bin/Debug/net8.0/MS009.2.dll
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/bin/Debug/net8.0/MS009.2.pdb
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.AssemblyInfoInputs.cache
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.AssemblyInfo.cs
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.csproj.CoreCompileInputs.cache
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.dll
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/refint/MS009.2.dll
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.pdb
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/MS009.2.genruntimeconfig.cache
+/home/jefferson/documents/dev/csharp/projects/MS009/MS009.2/obj/Debug/net8.0/ref/MS009.2.dll

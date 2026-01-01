@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iA8kLeImSbI=",
+  "success": true,
+  "projectFilePath": "/home/jefferson/Documents/dev/csharp/projects/freeCodeCamp/MS008/MS008.3/MS008.3.csproj",
+  "expectedPackageFiles": [
+    "/home/jefferson/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

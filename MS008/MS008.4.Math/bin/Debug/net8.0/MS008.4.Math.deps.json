@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MS008.4.Math/1.0.0": {
+        "runtime": {
+          "MS008.4.Math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS008.4.Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
